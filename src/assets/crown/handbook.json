@@ -738,23 +738,7 @@
       {
         "heading": "If the Crown is Director of Trade",
         "action": "Special Envoy",
-        "climate": {
-          "bull": [
-            {"description": "The Crown will take this action using exactly £3 of available funds with priority going to the northernmost closed order in the first priority region, given by the current AI card, not controlled by the Company. They will skip if £3 is not available, and repeat as long as there is £3+ available."}
-          ],
-          "stag": [
-            {"description": "The Crown will take this action using exactly £3 of available funds with priority going to the northernmost closed order in the first priority region, given by the current AI card, not controlled by the Company. They will skip if £3 is not available, and repeat as long as there is £3+ available."}
-          ],
-          "lion": [
-            {"description": "The Crown will take this action using exactly £3 of available funds with priority going to the northernmost closed order in the first priority region, given by the current AI card, not controlled by the Company. They will skip if £3 is not available, and repeat as long as there is £3+ available."}
-          ],
-          "bear": [
-            {"description": "The Crown will take this action using exactly £4 of available funds with priority going to the northernmost closed order in the first priority region, given by the current AI card, not controlled by the Company. They will skip if £4 is not available, and repeat as long as there is £4+ available."}
-          ],
-          "peacock": [
-            {"description": "The Crown will take this action using exactly £5 of available funds with priority going to the northernmost closed order in the first priority region, given by the current AI card, not controlled by the Company. They will skip if £5 is not available, and repeat as long as there is £5+ available."}
-          ]
-        }
+        "description": "The Crown will take this action using exactly £3 of available funds with priority going to the northernmost closed order in the first priority region, given by the current AI card, not controlled by the Company. They will skip if £3 is not available, and repeat as long as there is £3+ available."
       },
       {
         "climate": {
