@@ -738,7 +738,7 @@
       {
         "heading": "If the Crown is Director of Trade",
         "action": "Special Envoy",
-        "description": "The Crown will take this action using exactly £3 of available funds with priority going to the northernmost closed order in the first priority region, given by the current AI card, not controlled by the Company. They will skip if £3 is not available, and repeat as long as there is £3+ available."
+        "description": ["The Crown will take this action using exactly £3 of available funds with priority going to the northernmost closed order in the first priority region, given by the current AI card, not controlled by the Company. They will skip if £3 is not available, and repeat as long as there is £3+ available."]
       },
       {
         "climate": {
